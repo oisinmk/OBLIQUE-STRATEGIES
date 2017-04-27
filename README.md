@@ -2,4 +2,4 @@
 
 
 
-[OBLIQUE-STRATEGIES](https://oisinmk.github.io/OBLIQUE-STRATEGIES/index.html) ]
+[OBLIQUE-STRATEGIES](https://oisinmk.github.io/OBLIQUE-STRATEGIES/index.html) 
